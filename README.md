@@ -46,7 +46,7 @@ Escaneie o QR code com o **Expo Go** no celular.
 
 ## 🔗 App publicado
 
-👉 **https://expo.dev/preview/update?message=minha-bio&updateRuntimeVersion=1.0.0&createdAt=2026-10-21T18%3A24%3A56.968Z&slug=exp&projectId=10da42b5-27fa-4e1a-ae7f-f00ac515ed55&group=5990c77d-7531-4f86-b390-387b4f7cfc72**
+👉 **https://expo.dev/preview/update?message=atualiza+para+sdk+58&updateRuntimeVersion=1.0.0&createdAt=2026-10-24T00%3A15%3A12.137Z&slug=exp&projectId=10da42b5-27fa-4e1a-ae7f-f00ac515ed55&group=084d4406-a98a-4765-9c2e-53a28c26e519**
 
 ---
 
